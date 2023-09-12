@@ -5,7 +5,7 @@ import "./shop.css"
 function shop() {
 return <div className="shop" >
     <div className="shopTitle">
-        <h1>Tech Shop</h1>
+        <h1>Ankit Shop</h1>
     </div>
     <div className="products">
     {PRODUCTS.map((product)=>(
